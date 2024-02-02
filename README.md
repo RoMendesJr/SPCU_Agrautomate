@@ -13,3 +13,6 @@ Rodrigo de Oliveira Mendes Junior
 
 O link do vídeo onde apresentamos o protótipo/MVP da aplicação é:
 https://youtu.be/aV_p9d98DH4
+
+Link de edição do Bubble:
+https://bubble.io/page?name=index&id=spcu&tab=tabs-6&subtab=Plan
